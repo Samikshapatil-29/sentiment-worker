@@ -1,6 +1,4 @@
 supabase
 nltk
-gensim
 wordcloud
 pillow
-python-dotenv
